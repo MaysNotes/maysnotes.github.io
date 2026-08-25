@@ -1,0 +1,86 @@
+Mengungkap Rahasia Manshub dan Majzum pada Fi’il Mudhori’
+=========================================================
+
+Pernahkah kamu memperhatikan mengapa akhiran kata kerja (fi’il mudhori’) dalam bahasa Arab sering berubah-ubah? Kadang berharakat fathah… ---
+
+
+
+### Mengungkap Rahasia Manshub dan Majzum pada Fi’il Mudhori’
+
+Pernahkah kamu memperhatikan mengapa akhiran kata kerja (fi’il mudhori’) dalam bahasa Arab sering berubah-ubah? Kadang berharakat fathah, kadang sukun, bahkan kadang ada huruf yang tiba-tiba hilang begitu saja.
+
+Dalam ilmu Nahwu, perubahan ini dinamakan **I’rab**. Dua kondisi yang paling sering mengecoh pembelajar bahasa Arab adalah kondisi Manshub dan Majzum.
+
+### Kenapa Fi’il Mudhori' Bisa Berubah Status?
+
+Secara alami, kata kerja bentuk sedang/akan (fi’il mudhori’) itu berstatus Marfu' (baca: berakhiran dhommah, contoh: يَكْتُبُ - Yaktubu).
+
+Namun, status ini bisa langsung berubah drastis jika ada "penyusup" di depannya. Penyusup ini disebut Amil.
+
+\* Jika yang datang adalah Amil Nawashib, fi'il tersebut berubah menjadi Manshub.
+\* Jika yang datang adalah Amil Jawazim, fi'il tersebut berubah menjadi Majzum.
+
+Mari kita bedah ciri dan cara membedakannya!
+
+### 1. Mengenal Fi’il Mudhori' Manshub (Kondisi Masa Depan &amp; Harapan)
+
+Ciri utama dari makna kalimat Manshub adalah mengandung unsur harapan, tujuan, atau masa depan.
+
+#### Kata Kunci (Amil) yang Sering Muncul:
+
+\* أَنْ (An) = Untuk / bahwa.
+\* لَنْ (Lan) = Tidak akan pernah (masa depan).
+\* كَيْ / حَتَّى (Kay / Hatta) = Supaya / hingga.
+\* لِـ (لام التعليل) = Supaya / karena.
+
+#### Tanda Visual pada Kata:
+
+1\. Fathah ( —َ ): Untuk kata normal. (Contoh: لَنْ يَذْهَبَ - Lan yadzhaba).
+ 2. Huruf Vokal Tetap Hidup: Jika berakhiran huruf vokal seperti Wawu atau Ya’, hurufnya tetap ditulis dan diberi harakat fathah. (Contoh: لَنْ يَدْعُوَ - Lan yad’uwa).
+ 3. Hilang Huruf Nun: Khusus untuk kata kerja jamak/berpasangan (Af’alul Khamsah). (Contoh: asalnya يَكْتُبُوْنَ menjadi لَنْ يَكْتُبُوْا).
+
+### 2. Mengenal Fi’il Mudhori' Majzum (Kondisi Negasi &amp; Sebab-Akibat)
+
+Ciri utama dari makna kalimat Majzum adalah mengandung unsur negasi (tidak/belum), larangan keras, atau kalimat bersyarat (jika... maka...).
+
+#### Kata Kunci (Amil) yang Sering Muncul:
+
+\* لَمْ (Lam) = Tidak / belum (masa lalu).
+\* لَا (Laa) = Jangan (larangan).
+\* إِنْ / مَنْ / مَا (In / Man / Maa) = Jika / barangsiapa / apa saja (kalimat syarat).
+\* لِـ (لام الأمر) = Hendaklah / harus (perintah).
+
+#### Tanda Visual pada Kata:
+
+1\. Sukun ( —ْ ): Untuk kata normal. (Contoh: لَمْ يَذْهَبْ - Lam yadzhab).
+ 2. Huruf Vokal Dihapus Total: Jika kata aslinya berakhiran huruf vokal (ا , و , ي), maka huruf tersebut dipotong dan hilang dari tulisan! (Contoh: asalnya يَدْعُوْ menjadi لَمْ يَدْعُ).
+ 3. Hilang Huruf Nun: Sama seperti Manshub, huruf Nun di akhir kata jamak juga dihapus. (Contoh: لَمْ يَكْتُبُوْا).
+
+### Cheat Sheet: 3 Cara Kilat Membedakannya!
+
+Jika kamu sedang membaca kitab gundul atau Al-Qur’an dan bingung menentukan apakah kata tersebut Manshub atau Majzum, gunakan 3 rumus detektif ini:
+
+### Rumus 1: Lihat Arti Kata Depannya
+
+\* Jika artinya mengarah ke tujuan/masa depan (supaya, tidak akan), berarti Manshub.
+\* Jika artinya mengarah ke penolakan/perintah (belum, jangan, hendaklah), berarti Majzum.
+
+### Rumus 2: Perang Dua Huruf "Lam" (لِـ)
+
+\* Huruf لِـ yang artinya "supaya" membuat kata di depannya menjadi Manshub (Contoh: Li-atata'allama / supaya aku belajar).
+\* Huruf لِـ yang artinya "hendaklah" membuat kata di depannya menjadi Majzum (Contoh: Li-yunfiq / hendaklah ia menafkahkan).
+
+### Rumus 3: Perhatikan Huruf Vokal di Akhir Kata
+
+\* Jika huruf vokal (Wawu/Ya’) di akhir kata masih ada harakat fathahnya, kata itu Manshub.
+\* Jika huruf vokal di akhir kata hilang/terhapus, kata itu sudah pasti Majzum.
+
+
+
+
+
+By [Najma Shira](https://medium.com/@najmay) on [August 1, 2026](https://medium.com/p/e85840e2f884).
+
+[Canonical link](https://medium.com/@najmay/mengungkap-rahasia-manshub-dan-majzum-pada-fiil-mudhori-e85840e2f884)
+
+Exported from [Medium](https://medium.com) on August 25, 2026.

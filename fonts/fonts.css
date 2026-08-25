@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Amiri';
+    src: url('AmiriQuran-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gabriela';
+    src: url('Gabriela-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Delius';
+    src: url('Delius-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peace';
+    src: url('Peace-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+*/
+/*@font-face {
+    font-family: 'SBL Greek';
+    src: url('SBLGreek.woff2') format('woff2'),
+        url('SBLGreek.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SBL BibLit';
+    src: url('SBLBibLit.woff2') format('woff2'),
+        url('SBLBibLit.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SBL Hebrew';
+    src: url('SBLHebrew.woff2') format('woff2'),
+        url('SBLHebrew.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+*/
