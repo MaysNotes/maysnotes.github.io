@@ -1,23 +1,613 @@
 [
     {
         "id": 1,
-        "title": "Antara \"Jannātun\" dan \"Jannātin\"",
-        "slug": "antara-jannatun-dan-jannatin",
+        "title": "Memahami Rahasia Perubahan Harakat: Antara \"Jannātun\" dan \"Jannātin\" dalam Al-Qur'an",
+        "slug": "memahami-rahasia-perubahan-harakat-antara-jannatun-dan-jannatin-dalam-al-quran",
         "date": "2026-08-24",
         "tags": [
-            "Islam\r"
+            "Al-Qur'an\r"
         ],
-        "excerpt": "Kata \"surga-surga\" dalam Al-Qur'an terkadang dibaca berakhiran -tun (Jannātun /[ar] لَهُمْ جَنَّٰتٌ[/ar]) dan terkadang -tin (Jannātin /..."
+        "excerpt": "Saat membaca Al-Qur'an, kita sering menemukan frasa yang tampak serupa tetapi memiliki akhiran harakat yang berbeda. Salah satu contoh yang..."
     },
     {
         "id": 2,
-        "title": "Antara \"Mengeluarkan\", \"Menjadikan\", dan \"Menjadi\"",
-        "slug": "antara-mengeluarkan-menjadikan-dan-menjadi",
+        "title": "Menjelajahi Presisi Bahasa Al-Qur'an: Antara \"Mengeluarkan\", \"Menjadikan\", dan \"Menjadi\"",
+        "slug": "menjelajahi-presisi-bahasa-al-quran-antara-mengeluarkan-menjadikan-dan-menjadi",
         "date": "2026-08-21",
         "tags": [
-            "Islam\r"
+            "Al-Qur'an\r"
         ],
-        "excerpt": "Ada satu ayat dalam Surah Az-Zumar (39:21) yang sempat membuat saya berhenti dan merenung cukup lama. Di sana, Allah berfirman:"
+        "excerpt": "Ada satu ayat dalam Surah Az-Zumar (39:21) yang sempat membuatku berhenti dan merenung cukup lama. Di sana, Allah SWT berfirman:"
+    },
+    {
+        "id": 67,
+        "title": "Ketika Al-Qur’an Memilih “Mengeluarkan”, “Menjadikan”, dan “Menjadi”",
+        "slug": "ketika-al-quran-memilih-mengeluarkan-menjadikan-dan-menjadi",
+        "date": "2026-08-20",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Ada satu ayat yang membuatku berhenti cukup lama saat membacanya:"
+    },
+    {
+        "id": 66,
+        "title": "“Mereka” dan “Mereka Itu”: Sebuah Renungan Kecil dari فَهُمْ dan فَأُولَٰئِكَ",
+        "slug": "mereka-dan-mereka-itu-sebuah-renungan-kecil",
+        "date": "2026-08-19",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Ada satu hal kecil yang belakangan menarik perhatianku ketika membaca Al-Qur'an."
+    },
+    {
+        "id": 65,
+        "title": "Sistem \"Ayat Merah\": Pintu Masuk Tema Baru dan Rakaat Baru",
+        "slug": "sistem-ayat-merah-pintu-masuk-tema-baru-dan-rakaat-baru",
+        "date": "2026-08-15",
+        "tags": [
+            "Tips Pribadi\r"
+        ],
+        "excerpt": "Sistem \"Ayat Merah\" adalah cara pribadiku memberi tanda warna merah pada nomor ayat di Al-Qur’an."
+    },
+    {
+        "id": 64,
+        "title": "Ketika Al-Qur’an Mengubah “Kamera”: Belajar Merasakan Fi’il Māḍī dan Muḍāri‘",
+        "slug": "tidak-semua-kesenangan-adalah-kabar-baik",
+        "date": "2026-08-14",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Selama ini aku termasuk orang yang cukup kaku memahami fi'il māḍī dan fi'il muḍāri‘ dalam bahasa Arab."
+    },
+    {
+        "id": 62,
+        "title": "Chosen People Ep. 1: Arti “Perjanjian” dan “Milik Khusus” dalam Tanakh",
+        "slug": "chosen-people-ep-1-arti-perjanjian-dan-milik-khusus-dalam-tanakh",
+        "date": "2026-08-13",
+        "tags": [
+            "Tanakh\r"
+        ],
+        "excerpt": "Apa sih sebenarnya arti kata berith (perjanjian) dan segullah (milik khusus) dalam Tanakh?"
+    },
+    {
+        "id": 63,
+        "title": "Tidak Semua Kesenangan Adalah Kabar Baik",
+        "slug": "tidak-semua-kesenangan-adalah-kabar-baik",
+        "date": "2026-08-13",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Ada sesuatu yang belakangan membuatku berhenti cukup lama ketika membaca beberapa ayat Al-Qur’an."
+    },
+    {
+        "id": 61,
+        "title": "Refleksi Tadabbur Surah Ar-Rūm: Antara Tanda dan Perumpamaan",
+        "slug": "refleksi-tadabbur-surah-ar-rum-antara-tanda-dan-perumpamaan",
+        "date": "2026-08-06",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Ketika membaca Surah Ar-Rūm, mungkin perhatian kita langsung tertuju pada kisah kekalahan dan kemenangan Romawi. Namun setelah berjalan..."
+    },
+    {
+        "id": 60,
+        "title": "Mengungkap Rahasia Manshub dan Majzum pada Fi’il Mudhori’",
+        "slug": "mengungkap-rahasia-manshub-dan-majzum-pada-fiil-mudhori",
+        "date": "2026-08-01",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Pernahkah kamu memperhatikan mengapa akhiran kata kerja (fi’il mudhori’) dalam bahasa Arab sering berubah-ubah? Kadang berharakat fathah,..."
+    },
+    {
+        "id": 59,
+        "title": "Ketika \"Fa\" Bukan Sekadar Berarti \"Maka\"",
+        "slug": "ketika-fa-bukan-sekadar-berarti-maka",
+        "date": "2026-07-28",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Ada satu huruf kecil dalam Al-Qur'an yang belakangan ini membuatku berhenti dan merenung cukup lama. Huruf itu adalah:"
+    },
+    {
+        "id": 58,
+        "title": "Ketika Allah Berfirman \"Baṣīrun bil-’Ibād\" dan \"Bi’Ibādihī Khabīrun Baṣīr\"",
+        "slug": "ketika-allah-berfirman-basirun-bil-ibad-dan-biibadihi-khabirun-basir",
+        "date": "2026-07-27",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Ada satu kebiasaan kecil yang mulai rutin aku lakukan saat mentadabburi Al-Qur'an. Aku tidak lagi hanya bertanya:"
+    },
+    {
+        "id": 57,
+        "title": "Wa, Fa, atau Tanpa Keduanya? Sebuah Hipotesis Kecil Saat Menjelajahi Ritme Al-Qur'an",
+        "slug": "wa-fa-atau-tanpa-keduanya-sebuah-hipotesis-kecil-saat-menjelajahi-ritme-al-quran",
+        "date": "2026-07-26",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Beberapa hari terakhir, sebuah pertanyaan bermula dari hal yang tampak teramat sederhana menyapa benakku:"
+    },
+    {
+        "id": 56,
+        "title": "Ketika Al-Qur'an Tidak Mengucapkan Semuanya",
+        "slug": "ketika-al-quran-tidak-mengucapkan-semuanya",
+        "date": "2026-07-24",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Salah satu pesona paling memikat dari arsitektur bahasa Al-Qur'an adalah fakta bahwa tidak semua makna harus dieja secara eksplisit. Ada..."
+    },
+    {
+        "id": 55,
+        "title": "Membedah Akurasi Teks Al-Qur’an: Menilik Kronologi dan Urutan Azab Kaum Terdahulu",
+        "slug": "membedah-akurasi-teks-al-quran-menilik-kronologi-dan-urutan-azab-kaum-terdahulu",
+        "date": "2026-07-22",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Pernahkah kamu memperhatikan bagaimana Al-Qur’an mengabadikan potret kehancuran kaum-kaum terdahulu yang mendustakan para nabi? Sering kali..."
+    },
+    {
+        "id": 54,
+        "title": "Ali 'Imran 1–115 (Juz 3): Ketika Kebenaran Tidak Lagi Sekadar Diketahui, Tetapi Dipegang Erat",
+        "slug": "ali-imran-1115-juz-3-ketika-kebenaran-tidak-lagi-sekadar-diketahui-tetapi-dipegang-erat",
+        "date": "2026-07-21",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Selama menyusuri dan mentadabburi bagian pertama Surah Ali 'Imran, ada satu benang merah yang terus bergetar di dalam dada. Surah ini bukan..."
+    },
+    {
+        "id": 53,
+        "title": "Menguak Misteri Naskah Asli Alkitab: Memahami Perbedaan Teksnya",
+        "slug": "menguak-misteri-naskah-asli-alkitab-memahami-perbedaan-teksnya",
+        "date": "2026-07-19",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Pernahkah kamu penasaran bagaimana rupa naskah Alkitab dalam bahasa aslinya? Perjanjian Lama (PL) yang ditulis dalam bahasa Ibrani (dengan..."
+    },
+    {
+        "id": 52,
+        "title": "Refleksi Surah Maryam: Keindahan Nada, Kelembutan Narasi",
+        "slug": "refleksi-surah-maryam-keindahan-nada-kelembutan-narasi",
+        "date": "2026-07-16",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Ada perasaan yang sulit dilukiskan setiap kali jemari menuntaskan lembar terakhir dari satu surah Al-Qur'an."
+    },
+    {
+        "id": 50,
+        "title": "Memahami Nasakh dalam Al-Qur'an - Benarkah Ada Ayat yang \"Dihapus\"?",
+        "slug": "memahami-nasakh-dalam-al-quran-benarkah-ada-ayat-yang-dihapus",
+        "date": "2026-07-15",
+        "tags": [
+            "History\r"
+        ],
+        "excerpt": "Salah satu ayat yang sering menimbulkan pertanyaan di kalangan pembelajar Al-Qur’an adalah firman Allah SWT:"
+    },
+    {
+        "id": 51,
+        "title": "Refleksi Surah Al-Baqarah ayat 1–141 (Juz 1)",
+        "slug": "refleksi-surah-al-baqarah-ayat-1141-juz-1",
+        "date": "2026-07-15",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Hari ini aku menyelesaikan tadabbur Juz 1 Al-Qur'an."
+    },
+    {
+        "id": 49,
+        "title": "Menguak Sejarah Kelam Bani Israil: Siapa Saja Nabi yang Mereka Bunuh dalam Catatan Kitab Suci",
+        "slug": "menguak-sejarah-kelam-bani-israil-siapa-saja-nabi-yang-mereka-bunuh-dalam-catatan-kitab-suci",
+        "date": "2026-07-14",
+        "tags": [
+            "History\r"
+        ],
+        "excerpt": "Bagi kita yang sering membaca Al-Qur’an, ayat-ayat tentang pembangkangan Bani Israil tentu sudah tidak asing lagi. Salah satu tudingan..."
+    },
+    {
+        "id": 47,
+        "title": "Menanti Kiamat Tanpa Bosan: Bagaimana Ruh Orang Beriman Menikmati Hidangan Surga di Alam Barzakh?",
+        "slug": "menanti-kiamat-tanpa-bosan-bagaimana-ruh-orang-beriman-menikmati-hidangan-surga-di-alam-barzakh",
+        "date": "2026-07-13",
+        "tags": [
+            "Eschatology\r"
+        ],
+        "excerpt": "Bagi sebagian besar dari kita, membayangkan alam kubur atau alam barzakh mungkin identik dengan suasana yang gelap, sepi, dan mencekam...."
+    },
+    {
+        "id": 48,
+        "title": "Misteri Kaum Shabi-iin: 'Kaum Ketiga' yang Disebutkan dalam Al-Qur’an",
+        "slug": "misteri-kaum-shabi-iin-kaum-ketiga-yang-disebutkan-dalam-al-quran",
+        "date": "2026-07-13",
+        "tags": [
+            "History\r"
+        ],
+        "excerpt": "Ketika membaca Al-Qur’an, khususnya Surah Al-Baqarah ayat 62, kita sering menemukan deretan kelompok yang dijanjikan pahala oleh Allah jika..."
+    },
+    {
+        "id": 46,
+        "title": "Menelusuri Jejak Suhuf Ibrahim yang Hilang: Apakah \"Sefer Yetzirah\" Adalah Arsip Kuno yang Tersisa?",
+        "slug": "menelusuri-jejak-suhuf-ibrahim-yang-hilang-apakah-sefer-yetzirah-adalah-arsip-kuno-yang-tersisa",
+        "date": "2026-07-12",
+        "tags": [
+            "History\r"
+        ],
+        "excerpt": "Bagi umat Islam, mengimani adanya Ṣuḥuf Ibrāhīm (lembaran-lembaran wahyu Nabi Ibrahim AS) adalah bagian tidak terpisahkan dari Rukun Iman..."
+    },
+    {
+        "id": 44,
+        "title": "Refleksi Surah As-Sajdah: Ketika Perenungan Berujung pada Sujud",
+        "slug": "refleksi-surah-as-sajdah-ketika-perenungan-berujung-pada-sujud",
+        "date": "2026-07-11",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Surah As-Sajdah terasa seperti perjalanan yang mengajak manusia kembali mengingat asal-usulnya, tujuan hidupnya, dan tempat kembalinya...."
+    },
+    {
+        "id": 45,
+        "title": "Refleksi Surah Luqman: Menjaga Fitrah dengan Hikmah",
+        "slug": "refleksi-surah-luqman-menjaga-fitrah-dengan-hikmah",
+        "date": "2026-07-11",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Surah Luqman adalah salah satu surat yang sejak awal terasa sangat \"mendidik\". Jika Surah Ar-Rūm banyak mengajak kita membaca ayat-ayat..."
+    },
+    {
+        "id": 43,
+        "title": "Misteri Huruf Alif yang \"Ada tapi Tak Dianggap\" dalam Al-Qur’an",
+        "slug": "misteri-huruf-alif-yang-ada-tapi-tak-dianggap-dalam-al-quran",
+        "date": "2026-07-09",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Pernahkah kamu sedang mengaji, lalu menemukan huruf Alif di akhir kata tetapi disuruh membacanya pendek (1 harakat) saja? Padahal, biasanya..."
+    },
+    {
+        "id": 42,
+        "title": "Ketika Hamzah di Awal Kata Ternyata Bukan Pertanyaan",
+        "slug": "ketika-hamzah-di-awal-kata-ternyata-bukan-pertanyaan",
+        "date": "2026-06-30",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Saat mulai mentadabburi Al-Qur'an langsung dari bahasa Arabnya, ada satu hal kecil yang sempat membuatku sering terkecoh."
+    },
+    {
+        "id": 40,
+        "title": "Seni Sumpah Ilahi (Aqsām Al-Qur’ān): Ketika Alam Semesta Menjadi Saksi",
+        "slug": "seni-sumpah-ilahi-aqsam-al-quran-ketika-alam-semesta-menjadi-saksi",
+        "date": "2026-06-27",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Salah satu hal yang dahulu membuatku penasaran saat membaca Al-Qur'an adalah banyaknya ayat yang diawali dengan sumpah."
+    },
+    {
+        "id": 41,
+        "title": "Seni Menavigasi Nafas dan Makna: Menyelami Tingkatan Waqaf & Ibtida’ dalam Tilawah Al-Qur'an",
+        "slug": "seni-menavigasi-nafas-dan-makna-menyelami-tingkatan-waqaf-ibtida-dalam-tilawah-al-quran",
+        "date": "2026-06-27",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Bagi seorang Muslim, khususnya para pejuang tahfidz, berinteraksi dengan Al-Qur’an setiap hari adalah sebuah kenikmatan. Namun, sering kali..."
+    },
+    {
+        "id": 38,
+        "title": "Memahami Janji Allah: Antara Kepastian, Hikmah, dan Cara Wujudnya",
+        "slug": "memahami-janji-allah-antara-kepastian-hikmah-dan-cara-wujudnya",
+        "date": "2026-06-24",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Salah satu hal yang sering menimbulkan salah paham dalam memahami Al-Qur’an adalah cara kita membaca “janji Allah”. Sebagian orang..."
+    },
+    {
+        "id": 39,
+        "title": "Refleksi Surah Az-Zumar (Ayat 1–40): Keikhlasan Mutlak (*Ad-Dīn Al-Khāliṣ*) dan Kemerdekaan Batin Lewat Tauhid",
+        "slug": "refleksi-surah-az-zumar-ayat-1-40-keikhlasan-mutlak-ad-din-al-khalis-dan-kemerdekaan-batin-lewat-tauhid",
+        "date": "2026-06-24",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Setelah menyelesaikan bagian awal Surah Az-Zumar, ada satu kesan besar yang terus terasa: surat ini berulang kali mengajak manusia..."
+    },
+    {
+        "id": 37,
+        "title": "Refleksi Surah Al-Aḥzāb: Dari Ujian Pengepungan Perang Menuju Amanah Menjaga Perasaan Manusia",
+        "slug": "refleksi-surah-al-ahzab-dari-ujian-pengepungan-perang-menuju-amanah-menjaga-perasaan-manusia",
+        "date": "2026-06-20",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Ketika pertama kali mendengar nama Al-Ahzab, yang terbayang biasanya adalah perang besar, pasukan sekutu, parit, dan ancaman yang mengepung..."
+    },
+    {
+        "id": 35,
+        "title": "Gaya Penulisan Elipsis (hadhf): Ketika Al-Qur’an Sengaja Tidak Menyelesaikan Kalimatnya",
+        "slug": "gaya-penulisan-elipsis-hadhf-ketika-al-quran-sengaja-tidak-menyelesaikan-kalimatnya",
+        "date": "2026-06-17",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Saat pertama kali membaca Al-Qur’an, ada beberapa ayat yang terasa seolah-olah \"tidak selesai\". Contohnya seperti:"
+    },
+    {
+        "id": 36,
+        "title": "Refleksi Surah Shad: Ketika Kemuliaan Tidak Menjamin Kesempurnaan",
+        "slug": "refleksi-surah-shad-ketika-kemuliaan-tidak-menjamin-kesempurnaan",
+        "date": "2026-06-17",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Setelah menyelesaikan Surah Ṣād, ada satu hal yang terasa sangat menonjol: Allah tidak hanya menceritakan para nabi sebagai sosok yang..."
+    },
+    {
+        "id": 34,
+        "title": "Ragam Makna Akar Kata \"Ṣa-Da-Da\" (ص د د) dalam Al-Qur'an",
+        "slug": "ragam-makna-akar-kata-sha-da-da-dalam-al-quran",
+        "date": "2026-06-16",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Akar kata ini ditarik dari satu konsep inti (al-aṣl al-isytiqāqī): \"Sesuatu yang keras, padat, kaku, berpaling, atau menciptakan benteng /..."
+    },
+    {
+        "id": 33,
+        "title": "Refleksi As-Shaffat — Ketika Para Rasul dan Malaikat Bersaksi Tentang Tauhid",
+        "slug": "refleksi-as-shaffat-ketika-para-rasul-dan-malaikat-bersaksi-tentang-tauhid",
+        "date": "2026-06-10",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Surah Aṣ-Ṣāffāt dibuka dengan pemandangan yang sangat megah. Bukan dibuka dengan kisah manusia, bukan pula dengan kisah bumi, melainkan..."
+    },
+    {
+        "id": 32,
+        "title": "Refleksi Surah Ya-Sin — Tentang Kehidupan yang Datang dari Allah",
+        "slug": "refleksi-surah-yasin-tentang-kehidupan-yang-datang-dari-allah",
+        "date": "2026-06-08",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Surah Yā-Sīn adalah surat yang berulang kali mengajak manusia merenungkan satu tema besar, yaitu kehidupan."
+    },
+    {
+        "id": 31,
+        "title": "Mengenal Korelasi Fonetik &amp; Semantik (الاشتقاق الأكبر) dalam Bahasa Arab",
+        "slug": "mengenal-korelasi-fonetik-amp-semantik-dalam-bahasa-arab",
+        "date": "2026-06-06",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Fenomena الاشْتِقَاقُ الْأَكْبَرُ (Al-Isytiqaq Al-Akbar)—atau korelasi fonetis-semantis—merupakan salah satu bukti tercanggih bahwa bahasa..."
+    },
+    {
+        "id": 30,
+        "title": "Refleksi Surah Fussilat : Ketika Alam Semesta Tunduk pada Allah",
+        "slug": "refleksi-surah-fussilat-ketika-alam-semesta-tunduk-pada-allah",
+        "date": "2026-06-05",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Surah Fuṣṣilat terasa seperti surat yang mengajak manusia untuk berhenti sejenak, lalu benar-benar melihat."
+    },
+    {
+        "id": 29,
+        "title": "Rumus Hafalan untuk Kata² Mutasyabihat (Samar): Fauz, Fadhl, Kabir, dan ‘Azhim",
+        "slug": "rumus-hafalan-untuk-kata-mutasyabihat-samar-fauz-fadhl-kabir-dan-azhim",
+        "date": "2026-06-03",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Saat menghafal dan melakukan murāja‘ah Al-Qur'an, salah satu tantangan tersering adalah tertukar antara pasangan kata الْفَوْزُ (Al-Fauz)..."
+    },
+    {
+        "id": 28,
+        "title": "Rahasia \"Balāghah\" Kata Tunjuk: \"Żālik\" vs \"Tilka\" dan Variasi Akhiran \"Khiṭāb\"",
+        "slug": "rahasia-balaghah-kata-tunjuk-zalika-vs-tilka-dan-variasi-akhiran-khitab",
+        "date": "2026-05-28",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Pernahkah kita memperhatikan dalam Al-Qur'an bahwa kata penunjuk \"Itu\" dapat hadir dalam berbagai bentuk seperti ذَٰلِكَ (Żālika),..."
+    },
+    {
+        "id": 27,
+        "title": "Refleksi Surah Ghafir: Antara Perdebatan, Kesombongan, dan Hati yang Mau Mendengar",
+        "slug": "refleksi-surah-ghafir-antara-perdebatan-kesombongan-dan-hati-yang-mau-mendengar",
+        "date": "2026-05-27",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Surah Ghāfir terasa seperti surat yang sangat banyak berbicara tentang kedalaman hati manusia… Tentang bagaimana seseorang bisa menerima..."
+    },
+    {
+        "id": 26,
+        "title": "Beda Harakat A, I, dan U di Awal Kata Perintah Bahasa Arab",
+        "slug": "menyingkap-makna-di-balik-huruf-awalan-fiil-mudari-anaitu",
+        "date": "2026-05-25",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Banyak pembelajar bahasa Arab mengira kata perintah (fi‘il amr) selalu diawali suara \"U\" (seperti Udkhul) atau \"I\" (seperti Iqra’)...."
+    },
+    {
+        "id": 24,
+        "title": "Tentang “Di Sini” dan “Di Sana” dalam Bahasa Arab Qur’ani",
+        "slug": "tentang-di-sini-dan-di-sana-dalam-bahasa-arab-qurani",
+        "date": "2026-05-24",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Awalnya aku mengira kata seperti هُنَا (hunā), هُنَاكَ (hunāka), هُنَالِكَ (hunālika), dan ذَٰلِكَ (dhālika) hanya berarti \"di sini\" atau..."
+    },
+    {
+        "id": 25,
+        "title": "Menyingkap Makna di Balik Huruf Awalan *Fi‘il Muḍāri‘* (*Anaitu*: أ ن ي ت)",
+        "slug": "menyingkap-makna-di-balik-huruf-awalan-fiil-mudari-anaitu",
+        "date": "2026-05-24",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Dalam mempelajari tata bahasa Arab (Ilmu Nahwu dan Sharaf), perhatian kita sering kali tertuju pada tiga huruf akar kata (jiżr). Namun,..."
+    },
+    {
+        "id": 23,
+        "title": "Beberapa Ungkapan Arab Klasik dalam Al-Qur’an Bermakna Non-literal",
+        "slug": "beberapa-ungkapan-arab-klasik-dalam-al-quran-bermakna-non-literal",
+        "date": "2026-05-23",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Saat mulai belajar akar kata Al-Qur’an, aku sempat berpikir bahwa semua kata bisa dipahami hanya dari akar katanya saja."
+    },
+    {
+        "id": 22,
+        "title": "Misteri قَالَ dan وَقَالَ dalam Ilmu Balaghah Al-Qur’an",
+        "slug": "misteri-qala-dan-waqala-dalam-ilmu-balaghah-al-quran",
+        "date": "2026-05-22",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Apakah penggunaan kata Qāla (قَالَ) dan Waqāla (وَقَالَ) di dalam Al-Qur’an itu acak atau sekadar variasi kata?"
+    },
+    {
+        "id": 20,
+        "title": "Refleksi Surah Az-Zumar Ayat 41–75: Perjalanan Jiwa dari Kehidupan Dunia hingga Rombongan Abadi",
+        "slug": "refleksi-surah-az-zumar-ayat-41-75-perjalanan-jiwa-dari-kehidupan-dunia-hingga-rombongan-abadi",
+        "date": "2026-05-18",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Refleksi Az-Zumar Ayat 41–75: Ketika Manusia Digiring ke Dalam Surga/Neraka dengan Berbondong-bondong"
+    },
+    {
+        "id": 19,
+        "title": "Tips Menghafal Quran Versiku",
+        "slug": "tips-menghafal-quran-versiku",
+        "date": "2026-05-16",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Bagaimana sih cara menghafal Qur’an?"
+    },
+    {
+        "id": 17,
+        "title": "“Al-Fawz Al-‘Aẓīm”, “Al-Kabīr”, dan “Al-Mubīn” — Kenapa Al-Qur’an Memilih Kata yang Berbeda?",
+        "slug": "al-fawz-al-azim-al-kabir-dan-al-mubin-kenapa-al-quran-memilih-kata-yang-berbeda",
+        "date": "2026-05-09",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Salah satu hal yang mulai terasa saat kita sering membaca Al-Qur’an adalah:"
+    },
+    {
+        "id": 18,
+        "title": "Pola I‘rāb Setelah Isim : Antara “Ikut” atau Punya I‘rāb Sendiri",
+        "slug": "pola-irab-setelah-isim-antara-ikut-atau-punya-irab-sendiri",
+        "date": "2026-05-09",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Salah satu hal yang mulai terasa indah dalam Ilmu Nahwu adalah saat menyadari bahwa:"
+    },
+    {
+        "id": 14,
+        "title": "Refleksi Surah Ad-Dukhān: Saat Hati Hanya Taubat di Waktu Sulit",
+        "slug": "refleksi-surah-ad-dukhan-saat-hati-hanya-taubat-di-waktu-sulit",
+        "date": "2026-05-02",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Ada satu pola manusia yang terasa sangat jujur dalam Surah Ad-Dukhān."
+    },
+    {
+        "id": 15,
+        "title": "Refleksi Surat Al-Jatsiyah: Saat Manusia Berlutut Ketakutan di Hadapan Allah",
+        "slug": "refleksi-surat-al-jatsiyah-saat-manusia-berlutut-ketakutan-di-hadapan-allah",
+        "date": "2026-05-02",
+        "tags": [
+            "Refleksi Al-Qur'an\r"
+        ],
+        "excerpt": "Kenapa namanya Al-Jāthiyah?"
+    },
+    {
+        "id": 16,
+        "title": "Sejak Kapan Manusia Menyebut Tuhan dengan “Allah”?",
+        "slug": "sejak-kapan-manusia-menyebut-tuhan-dengan-allah",
+        "date": "2026-05-02",
+        "tags": [
+            "History\r"
+        ],
+        "excerpt": "Pernah terpikirkan… sejak kapan manusia menyebut Tuhan dengan nama “Allah”?"
+    },
+    {
+        "id": 13,
+        "title": "Struktur dan Fungsi “إِنَّ (inna)” dlm Bahasa Arab",
+        "slug": "struktur-dan-fungsi-inna-dlm-bahasa-arab",
+        "date": "2026-04-27",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Dalam tata bahasa Arab, kata inna (إِنَّ) dikenal sebagai ḥarf taukīd (huruf penegas). Saat masuk ke dalam kalimat, ia bertugas memberikan..."
+    },
+    {
+        "id": 12,
+        "title": "Memahami “كَانَ (kāna)” dalam Bahasa Arab",
+        "slug": "memahami-kana-dalam-bahasa-arab",
+        "date": "2026-04-26",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Saat belajar bahasa Arab atau membaca Al-Qur'an, kata kāna (كَانَ) sering kali diartikan sebagai \"adalah\" atau \"dahulu\". Namun dalam Ilmu..."
+    },
+    {
+        "id": 11,
+        "title": "Tahapan menuju Surga/Neraka",
+        "slug": "tahapan-menuju-surga-neraka",
+        "date": "2026-04-25",
+        "tags": [
+            "Eschatology\r"
+        ],
+        "excerpt": "Apakah manusia akan langsung dihisab dan masuk ke surga atau neraka begitu menghembuskan napas terakhir? Jawabannya: tidak. Dalam..."
+    },
+    {
+        "id": 10,
+        "title": "Tahapan Kejadian Sebelum Hari Kiamat",
+        "slug": "tahapan-kejadian-sebelum-hari-kiamat",
+        "date": "2026-04-24",
+        "tags": [
+            "Eschatology\r"
+        ],
+        "excerpt": "Apakah hari akhir sudah semakin dekat? Pertanyaan ini sering kali melintas di benak banyak orang. Dalam tradisi Islam, eskatologi atau..."
+    },
+    {
+        "id": 8,
+        "title": "Ragam Makna “أَنْ (an)” dalam Al-Qur’an",
+        "slug": "ragam-makna-an-dalam-al-quran",
+        "date": "2026-04-22",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Kata أَنْ (an) adalah salah satu huruf kecil dalam bahasa Arab yang memiliki fungsi penting dalam membentuk makna kalimat. Secara dasar, ia..."
+    },
+    {
+        "id": 9,
+        "title": "Ragam Makna “إِذَا (idhā)” dan “إِذْ (idh)” dalam Al-Qur’an",
+        "slug": "ragam-makna-idha-dan-idh-dalam-al-quran",
+        "date": "2026-04-22",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Dua kata ini sering kali membuat pembaca Al-Qur'an terkecoh karena bentuk ejaannya yang hampir serupa. Padahal, idhā (إِذَا) dan idh (إِذْ)..."
     },
     {
         "id": 6,
@@ -25,9 +615,9 @@
         "slug": "ragam-makna-kata-lamma-dalam-al-quran",
         "date": "2026-04-21",
         "tags": [
-            "Islam\r"
+            "Al-Qur'an\r"
         ],
-        "excerpt": "Bagi yang sedang mendalami bahasa Arab atau tadabur Al-Qur'an, kata lammā (لَمَّا) mungkin terasa agak membingungkan karena terjemahannya..."
+        "excerpt": "Kata لَمَّا (lammā) dalam bahasa Arab sering terasa “berubah-ubah” maknanya. Padahal sebenarnya, ia memiliki beberapa fungsi yang berbeda..."
     },
     {
         "id": 7,
@@ -37,7 +627,7 @@
         "tags": [
             "Refleksi Al-Qur'an\r"
         ],
-        "excerpt": "Surah Az-Zukhruf diawali dengan penegasan agung tentang Al-Qur'an sebagai petunjuk yang jelas. Setelah itu, narasi surah ini perlahan..."
+        "excerpt": "Surat Az-Zukhruf membuka dengan penegasan tentang Al-Qur’an sebagai petunjuk yang jelas, lalu perlahan mengajak manusia melihat satu hal..."
     },
     {
         "id": 4,
@@ -45,9 +635,9 @@
         "slug": "alif-maqsurah-huruf-ya-yang-tetap-dibaca-alif",
         "date": "2026-04-20",
         "tags": [
-            "Islam\r"
+            "Al-Qur'an\r"
         ],
-        "excerpt": "Pernahkah Anda menemukan kata dalam Al-Qur'an yang secara visual terlihat seperti huruf ya (ى), tetapi saat dibaca justru berbunyi alif (ā)..."
+        "excerpt": "Pernahkah kamu menemukan kata dalam Al-Qur'an yang secara visual terlihat seperti huruf ya (ى), tetapi saat dibaca justru berbunyi alif (ā)..."
     },
     {
         "id": 5,
@@ -55,9 +645,9 @@
         "slug": "ragam-makna-kata-in-lebih-dari-sekadar-jika",
         "date": "2026-04-20",
         "tags": [
-            "Islam\r"
+            "Al-Qur'an\r"
         ],
-        "excerpt": "Saat membaca teks Al-Qur'an, kata in ([ar]إِنْ[/ar]) tanpa tasydid sering kali secara spontan kita terjemahkan sebagai \"jika\". Padahal..."
+        "excerpt": "Dalam bahasa Arab, kata إِنْ (in) tanpa tasydid tidak selalu berarti “jika”. Maknanya bisa berubah tergantung struktur kalimat yang..."
     },
     {
         "id": 3,
@@ -65,8 +655,18 @@
         "slug": "memahami-kata-benda-berakal-dan-tak-berakal-dalam-ilmu-nahwu",
         "date": "2026-04-08",
         "tags": [
-            "Islam\r"
+            "Al-Qur'an\r"
         ],
-        "excerpt": "Pernahkah Anda heran melihat sebuah kalimat bahasa Arab di mana subjeknya berbentuk jamak (banyak), tetapi kata kerjanya justru menggunakan..."
+        "excerpt": "Dalam tata bahasa Arab (Ilmu Nahwu), kata benda jamak (Isim Jamak) memiliki klasifikasi khusus berdasarkan sifat kecerdasannya: yaitu..."
+    },
+    {
+        "id": 21,
+        "title": "Belajar Fi’il Muta’addi vs Fi’il Lazim: Kasus \"A’maaluhum\" dalam Al-Kahfi 105",
+        "slug": "belajar-fiil-mutaaddi-vs-fiil-lazim-kasus-amaaluhum-dalam-al-kahfi-105",
+        "date": "",
+        "tags": [
+            "Al-Qur'an\r"
+        ],
+        "excerpt": "Pernahkah kamu perhatikan perbedaan harakat dalam Al-Qur’an?"
     }
 ]

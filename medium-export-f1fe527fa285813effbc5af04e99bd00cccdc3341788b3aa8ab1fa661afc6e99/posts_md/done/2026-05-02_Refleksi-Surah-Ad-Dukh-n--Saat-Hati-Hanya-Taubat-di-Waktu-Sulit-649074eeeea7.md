@@ -90,17 +90,6 @@ Seolah ingin mengingatkan:
 
 > setiap pilihan memiliki ujungnya.
 
-Dan penutupnya… sangat lembut:
-
-> “Berpalinglah dari mereka dan ucapkan salam.”
-
-Tidak semua orang akan berubah.
-Tidak semua nasihat akan diterima.
-
-Dan itu tidak selalu menjadi tanggung jawab kita. Kadang, bentuk ketenangan tertinggi adalah:
-
-> menyampaikan kebenaran, lalu melepaskan.
-
 ### Kesimpulan Ringkas
 
 Surah Ad-Dukhān bukan hanya tentang masa lalu. Ia adalah cermin tentang bagaimana kita berjanji,

@@ -64,11 +64,14 @@ body {
 .arabic {
     direction: rtl;
     text-align: right;
-    font-size: 0.85em;
+/*    font-size: 0.85em;*/
+    font-size: 1.25em;
     /* line-height: 2.2; */
     margin: 1.8em 0;
-    font-family: 'Amiri';
-    font-style: normal;
+/*    font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;;*/
+    font-family: 'Naskh';
+/*    font-style: normal;*/
+    font-weight: bold;
 }
 
 .article-content blockquote {

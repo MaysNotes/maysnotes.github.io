@@ -1,0 +1,13 @@
+najmashira.com> git remote add origin git@github.com-najma:NajmaShira/najmashira.github.io.git
+najmashira.com> git remote set-url origin git@github.com-najma:NajmaShira/najmashira.github.io.git
+najmashira.com> git branch -m main
+najmashira.com> git push origin main
+
+maysnotes.com>  php article-updater.php
+maysnotes.com>  php search-updater.php
+maysnotes.com>  git remote add maysnotes https://github.com/MaysNotes/maysnotes.github.io.git
+maysnotes.com>  git remote set-url maysnotes git@github.com-najma:MaysNotes/maysnotes.github.io.git
+maysnotes.com>  git push maysnotes main
+
+maysbible.com>  git remote add maysbible git@gitlab.com:MaysBible/maysbible.gitlab.io.git
+maysbible.com>  git push maysbible main

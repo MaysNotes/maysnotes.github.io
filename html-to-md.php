@@ -5,8 +5,8 @@ require 'vendor/autoload.php';
 use League\HTMLToMarkdown\HtmlConverter;
 
 // Tentukan folder sumber (HTML) dan folder tujuan (Markdown)
-$sourceDir = 'C:\lanterium\najma-web\medium-export-f1fe527fa285813effbc5af04e99bd00cccdc3341788b3aa8ab1fa661afc6e99\posts' ; // Ganti dengan folder sumber Anda
-$targetDir = 'C:\lanterium\najma-web\medium-export-f1fe527fa285813effbc5af04e99bd00cccdc3341788b3aa8ab1fa661afc6e99\posts_md';   // Ganti dengan folder tujuan Anda
+$sourceDir = 'C:\lanterium\maysnotes.com\medium-export-f1fe527fa285813effbc5af04e99bd00cccdc3341788b3aa8ab1fa661afc6e99\posts' ; // Ganti dengan folder sumber Anda
+$targetDir = 'C:\lanterium\maysnotes.com\medium-export-f1fe527fa285813effbc5af04e99bd00cccdc3341788b3aa8ab1fa661afc6e99\posts_md';   // Ganti dengan folder tujuan Anda
 
 
 if (!is_dir($sourceDir)) {
