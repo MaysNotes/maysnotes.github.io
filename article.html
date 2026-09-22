@@ -23,6 +23,23 @@
         href="css/style.css"
     >
     <link rel="stylesheet" href="./fonts/fonts.css">
+
+    <meta name="theme-color" content="#0d0f12">
+
+    <!-- Theme initialization -->
+    <script>
+        (() => {
+            const savedTheme = localStorage.getItem("theme");
+            const systemPrefersLight =
+                window.matchMedia("(prefers-color-scheme: light)").matches;
+
+            const theme =
+                savedTheme || (systemPrefersLight ? "light" : "dark");
+
+            document.documentElement.dataset.theme = theme;
+        })();
+    </script>
+
 </head>
 
 <body>
@@ -53,6 +70,15 @@
         </a>
 
         <header class="article-header">
+
+            <button
+                id="theme-toggle"
+                type="button"
+                aria-label="Switch to light theme"
+            >
+                <span aria-hidden="true">☾</span>
+            </button>
+
             <h1 id="article-title"></h1>
 
             <div class="article-meta">
@@ -62,6 +88,7 @@
                 <span class="article-separator">·</span>
                 <span id="article-tags"></span>
             </div>
+
         </header>
 
         <div
@@ -72,6 +99,7 @@
 
 </main>
     <script src="assets/marked.min.js"></script>
+    <script src="js/script.js"></script>
     <script src="js/article.js"></script>
     <script src="js/temp-func.js"></script>
     <!-- <script src="js/search.js"></script> -->

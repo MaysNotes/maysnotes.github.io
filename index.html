@@ -24,6 +24,22 @@
     >
     <link rel="stylesheet" href="./fonts/fonts.css">
 
+    <meta name="theme-color" content="#0d0f12">
+
+    <!-- Theme initialization -->
+    <script>
+        (() => {
+            const savedTheme = localStorage.getItem("theme");
+            const systemPrefersLight =
+                window.matchMedia("(prefers-color-scheme: light)").matches;
+
+            const theme =
+                savedTheme || (systemPrefersLight ? "light" : "dark");
+
+            document.documentElement.dataset.theme = theme;
+        })();
+    </script>
+
 </head>
 
 <body>
@@ -32,11 +48,20 @@
 
         <header class="site-header">
 
+            <button
+                id="theme-toggle"
+                type="button"
+                aria-label="Switch to light theme"
+            >
+                <span aria-hidden="true">☾</span>
+            </button>
+
             <h1>May's Notes</h1>
 
             <p>
                 Najma’s thoughts and reflections.
             </p>
+
 
         </header>
 
@@ -101,6 +126,7 @@
     </main>
 
 
+    <script src="js/script.js"></script>
     <script src="js/search.js"></script>
     <script src="js/temp-func.js"></script>
 
