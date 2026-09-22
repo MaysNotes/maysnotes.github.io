@@ -87,7 +87,7 @@ body {
 #article-author {;
 /*  font-weight: bold;*/
 /*  color: blue;*/
-  color: var(--text);
+/*  color: var(--text);*/
 }
 
 .article-container {
@@ -113,7 +113,7 @@ body {
 
 .article-meta .article-author {;
 /*  font-weight: bold;*/
-  color: var(--text);
+/*  color: var(--text);*/
 /*  color: blue;*/
 }
 
